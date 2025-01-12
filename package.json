@@ -1,0 +1,8 @@
+{
+  "name": "@peoplenex/react-idea",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/peoplenex/react-idea.git",
+  "author": "shinbaek89@gmail.com",
+  "license": "MIT"
+}
